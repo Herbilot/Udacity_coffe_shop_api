@@ -1,0 +1,14 @@
+
+babel
+Flask
+flask-moment
+flask_sqlalchemy
+gunicorn
+itsdangerous
+Jinja2
+Mako
+Markdown
+MarkupSafe
+python-dateutil
+SQLAlchemy
+Werkzeug
